@@ -8,3 +8,10 @@ The program is based on the RISC-V architecture and uses open-source tools to te
 **Email ID:** raeesgodgift323@gmail.com<br/>
 **GitHub Profile:** MuhammadRaees323<br/>
 **LinkedIN Profile:** Muhammad Raees<br/>
+
+# TASK-1
+To install this riscv tool chain on your machine. The labs and to perform labs related to that 
+
+**1. Install ubuntu 18.04 using oracle virtual machine box**
+
+
